@@ -1,0 +1,49 @@
+{
+    "folio1": [
+        {
+            "imgSrc": "/assets/section1/Img1.png",
+            "vectorSrc": "/assets/section1/vector1.png",
+            "title": "NIIR",
+            "tags": [
+                "communication",
+                "brand strategy",
+                "editorial strategy"
+            ]
+        },
+        {
+            "imgSrc": "/assets/section1/Img2.png",
+            "vectorSrc": "/assets/section1/vector2.png",
+            "title": "OMADAYA",
+            "tags": [
+                "brand strategy",
+                "branding",
+                "design",
+                "communication",
+                "copywriting"
+            ]
+        }
+    ],
+    "folio2": [
+        {
+            "imgSrc": "/assets/section1/Img3.png",
+            "vectorSrc": "/assets/section1/vector3.png",
+            "title": "KATE",
+            "tags": [
+                "branding",
+                "brand strategy",
+                "website",
+                "design"
+            ]
+        },
+        {
+            "imgSrc": "/assets/section1/Img4.png",
+            "vectorSrc": "/assets/section1/vector4.png",
+            "title": "BAGEL CORNER",
+            "tags": [
+                "brand strategy",
+                "brand content",
+                "communication"
+            ]
+        }
+    ]
+}
